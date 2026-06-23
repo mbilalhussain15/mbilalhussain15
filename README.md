@@ -14,11 +14,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 **M.Sc. Applied Informatics** – SRH Universität Heidelberg *(Grade: **1.5**)*
-- 💼 Ex **SAP Fioneer** — Cloud-Native Microfrontends, React, SAP UI5, CI/CD pipelines
-- 🏫 **Freelance Lecturer** @ SRH Stuttgart — Data Structures & Algorithms with Python
-- 🚀 **Solo-built & deployed a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
-- 🤖 Master thesis: AI project management platform with **autonomous LangGraph agents + RAG**
-- 📍 Heidelberg, Germany · Open to Full-Stack / AI Engineer roles
+- 🚀 **Solo-built & shipped a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
+- 🤖 Master thesis: AI platform with **autonomous LangGraph agents + RAG**
+- 📍 Heidelberg, Germany · Open to **Full-Stack / AI Engineer** roles
 
 ---
 
