@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=40&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%7C+AI+%26+Cloud" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&speed=50&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Bilal+Hussain!;Full-Stack+Software+Engineer+%7C+AI+%26+Cloud" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,19 +15,8 @@
 
 - 🎓 **M.Sc. Applied Informatics** – SRH Universität Heidelberg *(Grade: **1.5**)*
 - 🚀 **Solo-built & shipped a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
-- 🤖 Master thesis: **BitBoard** — KI-gestützte Projektmanagementplattform mit Echtzeit-Kollaboration für Code und Whiteboards
+- 🤖 Master thesis: **BitBoard** — AI-powered Project Management Platform with Real-Time Collaboration for Code and Whiteboards
 - 📍 Heidelberg, Germany · Open to **Full-Stack / AI Engineer** roles
-
----
-
-## 💼 Work Experience
-
-| Period | Role | Company |
-|--------|------|---------|
-| 04.2026 – present | **Freelance Lecturer** — Data Structures & Algorithms with Python | 🎓 SRH Universität, Stuttgart |
-| 01.2026 – 03.2026 | **Intern** — Cloud-Native Microfrontends, React, SAP UI5, CI/CD | 🏢 SAP Fioneer, Walldorf |
-| 03.2025 – 08.2025 | **Intern** — Industrial image annotation tool (C#, WPF, OpenCV) | 🏭 edevis GmbH, Stuttgart |
-| 03.2022 – 03.2024 | **Working Student** — REST APIs, Android (Kotlin), ASP.NET, Medical IoT | 🏥 CardiLink GmbH, Nürnberg |
 
 ---
 
@@ -174,19 +163,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbilalhussain15&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbilalhussain15&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbilalhussain15&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Languages
 
 ![English](https://img.shields.io/badge/English-C1_Fluent-0077B5?style=for-the-badge&logo=googletranslate&logoColor=white)
@@ -199,7 +175,7 @@
 
 - 🏫 Teaching **DSA with Python** @ SRH University Stuttgart
 - 🤖 Deepening **Agentic AI** — multi-agent systems, tool calling, memory with LangGraph
-- 🇩🇪 German language — *Ziel: B2 (aktuell A2)*
+- 🇩🇪 Learning German — *currently A2, target B2*
 - 📬 Open to **Full-Stack / AI Engineer** roles — feel free to reach out!
 
 ---
