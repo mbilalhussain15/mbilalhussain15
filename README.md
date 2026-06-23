@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;I+build+Autonomous+LLM+Agents;LangGraph+%C2%B7+RAG+%C2%B7+Microservices+%C2%B7+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=40&pause=600&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;LangGraph+Agents+%7C+RAG+%7C+FastAPI;Microservices+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -11,52 +11,81 @@
 
 ---
 
-## 🤖 I Build AI Agents — Not Just Apps
-
-> I design and ship **autonomous agentic systems** — agents that plan, reason, use tools, call APIs, search knowledge bases, and execute complex multi-step workflows **without human intervention**. From RAG pipelines to supervisor-worker multi-agent graphs, I build AI that runs in production.
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <b>🧠 Autonomous Agents</b><br/><br/>
-      <sub>LangChain + LangGraph agents with <b>tool calling</b>, <b>persistent memory</b>, <b>reflection loops</b> & <b>multi-step reasoning</b> — fully autonomous task execution</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>📚 RAG Pipelines</b><br/><br/>
-      <sub>Production RAG with <b>vector search</b>, <b>document ingestion</b>, <b>semantic retrieval</b> & <b>reranking</b> — grounded, hallucination-resistant answers over private data</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🔄 Multi-Agent Systems</b><br/><br/>
-      <sub>LangGraph <b>supervisor + worker</b> architectures — parallel execution, conditional branching, human-in-the-loop & seamless agent handoff</sub>
-    </td>
-    <td align="center" width="25%">
-      <b>🚀 Production AI Backends</b><br/><br/>
-      <sub><b>FastAPI</b> AI backends with <b>streaming LLM responses</b>, tool execution APIs, Docker + CI/CD — production-ready, not just prototypes</sub>
-    </td>
-  </tr>
-</table>
-
-**AI & LLM Stack:**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph_Agents-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6E3FF3?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_Workflows-00C896?style=for-the-badge&logo=probot&logoColor=white)
-![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector_Search-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 **M.Sc. Applied Informatics** – SRH Universität Heidelberg *(Grade: **1.5**)*
 - 💼 Ex **SAP Fioneer** — Cloud-Native Microfrontends, React, SAP UI5, CI/CD pipelines
 - 🏫 **Freelance Lecturer** @ SRH Stuttgart — Data Structures & Algorithms with Python
-- 🚀 **Shipped a live SaaS** used by German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
-- 🤖 Master thesis: AI project management platform with **autonomous LangGraph agents** + **RAG**
-- 📍 Heidelberg, Germany
+- 🚀 **Solo-built & deployed a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
+- 🤖 Master thesis: AI project management platform with **autonomous LangGraph agents + RAG**
+- 📍 Heidelberg, Germany · Open to Full-Stack / AI Engineer roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**AI & LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph_Agents-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6E3FF3?style=for-the-badge&logo=openai&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/Agentic_Workflows-00C896?style=for-the-badge&logo=probot&logoColor=white)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Mobile**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Kotlin Android](https://img.shields.io/badge/Kotlin_Android-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
@@ -133,62 +162,6 @@
 | [🛒 Online Store App](https://github.com/mbilalhussain15/Online-Store-App) | E-commerce platform with product listings, cart & order management | JavaScript · React · Node.js |
 | [📅 Local Event Networking](https://github.com/mbilalhussain15/Local-Event-Networking-App) | Community platform for discovering and joining local events | JavaScript · React |
 | [📱 Blazor Hybrid Mobile App](https://github.com/mbilalhussain15/Basic-Blazor-Hybrid-Mobile-App) | Cross-platform hybrid mobile app with user authentication & navigation | .NET · Blazor · C# |
-
----
-
-## 🛠️ Full Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SAP UI5](https://img.shields.io/badge/SAP_UI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Kotlin Android](https://img.shields.io/badge/Kotlin_Android-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
