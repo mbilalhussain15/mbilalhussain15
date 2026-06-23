@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=40&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%7C+AI+%26+Cloud;LangGraph+Agents+%7C+RAG+%7C+FastAPI;Microservices+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=40&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%7C+AI+%26+Cloud" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 - 🎓 **M.Sc. Applied Informatics** – SRH Universität Heidelberg *(Grade: **1.5**)*
 - 🚀 **Solo-built & shipped a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
-- 🤖 Master thesis: AI platform with **autonomous LangGraph agents + RAG**
+- 🤖 Master thesis: **BitBoard** — KI-gestützte Projektmanagementplattform mit Echtzeit-Kollaboration für Code und Whiteboards
 - 📍 Heidelberg, Germany · Open to **Full-Stack / AI Engineer** roles
 
 ---
