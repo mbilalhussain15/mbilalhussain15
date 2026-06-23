@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=40&pause=600&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+%26+AI+Engineer;LangGraph+Agents+%7C+RAG+%7C+FastAPI;Microservices+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&speed=40&pause=600&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Bilal+Hussain!+%F0%9F%91%8B;Full-Stack+Software+Engineer+%7C+AI+%26+Cloud;LangGraph+Agents+%7C+RAG+%7C+FastAPI;Microservices+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,6 +19,17 @@
 - 🚀 **Solo-built & deployed a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
 - 🤖 Master thesis: AI project management platform with **autonomous LangGraph agents + RAG**
 - 📍 Heidelberg, Germany · Open to Full-Stack / AI Engineer roles
+
+---
+
+## 💼 Work Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| 04.2026 – present | **Freelance Lecturer** — Data Structures & Algorithms with Python | 🎓 SRH Universität, Stuttgart |
+| 01.2026 – 03.2026 | **Intern** — Cloud-Native Microfrontends, React, SAP UI5, CI/CD | 🏢 SAP Fioneer, Walldorf |
+| 03.2025 – 08.2025 | **Intern** — Industrial image annotation tool (C#, WPF, OpenCV) | 🏭 edevis GmbH, Stuttgart |
+| 03.2022 – 03.2024 | **Working Student** — REST APIs, Android (Kotlin), ASP.NET, Medical IoT | 🏥 CardiLink GmbH, Nürnberg |
 
 ---
 
@@ -175,6 +186,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbilalhussain15&theme=github-dark-blue&hide_border=true" />
 </p>
+
+---
+
+## 🌐 Languages
+
+![English](https://img.shields.io/badge/English-C1_Fluent-0077B5?style=for-the-badge&logo=googletranslate&logoColor=white)
+![German](https://img.shields.io/badge/German-A2_%E2%86%92_B2_in_progress-FF6F00?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Urdu](https://img.shields.io/badge/Urdu-Native-00C896?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
