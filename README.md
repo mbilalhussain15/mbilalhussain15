@@ -1,11 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&speed=50&pause=500&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there%2C+I%27m+Bilal+Hussain!;Full-Stack+Software+Engineer+%7C+AI+%26+Cloud" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <a href="https://linkedin.com/in/m-h-399368191"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mbilalhussain15.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://attendio.technoflick.com"><img src="https://img.shields.io/badge/🌐_Live_SaaS-attendio.technoflick.com-00C896?style=for-the-badge"/></a>
+  <a href="https://mbilalhussain-taskora-pmp.vercel.app"><img src="https://img.shields.io/badge/🗂️_Live_App-Taskora_PM_Platform-6C47FF?style=for-the-badge"/></a>
   <a href="mailto:mbilalhussain8473@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -15,6 +15,7 @@
 
 - 🎓 **M.Sc. Applied Informatics** – SRH Universität Heidelberg *(Grade: **1.5**)*
 - 🚀 **Solo-built & shipped a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
+- 🗂️ **Built & deployed Taskora** — full-stack SaaS PM platform → [mbilalhussain-taskora-pmp.vercel.app](https://mbilalhussain-taskora-pmp.vercel.app)
 - 🤖 Master thesis: **BitBoard** — AI-powered Project Management Platform with Real-Time Collaboration for Code and Whiteboards
 - 📍 Heidelberg, Germany · Open to **Full-Stack / AI Engineer** roles
 
@@ -23,7 +24,6 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +34,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **AI & LLM**
-
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph_Agents-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-6E3FF3?style=for-the-badge&logo=openai&logoColor=white)
@@ -44,7 +43,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Backend**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -53,7 +51,6 @@
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Frontend**
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,7 +59,6 @@
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 **Cloud & DevOps**
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -72,7 +68,6 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -80,7 +75,6 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Mobile**
-
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Kotlin Android](https://img.shields.io/badge/Kotlin_Android-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -105,6 +99,23 @@
       <a href="https://attendio.technoflick.com"><img src="https://img.shields.io/badge/🌐_Live_System-attendio.technoflick.com-brightgreen?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
+      <h3>🗂️ Taskora — Project Management Platform</h3>
+      <p>Full-stack SaaS PM platform with Kanban boards, drag-and-drop task management, sprint analytics, and subscription-based access control. Clerk JWT authentication integrated directly with Supabase Row Level Security — zero custom auth backend needed.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/dnd--kit-FF4154?style=flat-square&logo=react&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://mbilalhussain-taskora-pmp.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-mbilalhussain--taskora--pmp.vercel.app-6C47FF?style=for-the-badge"/></a>
+      &nbsp;
+      <a href="https://github.com/mbilalhussain15/Taskora-Project-Management-Platform"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🤖 BitBoard — AI Project Management Platform</h3>
       <p>Master thesis (Grade 1.5). Autonomous LLM agents with LangChain + LangGraph — tool calling, RAG-based knowledge search, and multi-step task planning. Features a real-time collaborative code editor + whiteboard. Full microservices backend.</p>
       <p>
@@ -119,8 +130,6 @@
       </p>
       <a href="https://github.com/mbilalhussain15/BitBoard-Real-Time-Code-Collaboration"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🧠 Aiva — AI Virtual Assistant Chatbot</h3>
       <p>Text & voice chatbot using hybrid ML models. Full NLP pipeline with intent classification (SVM), sequence modelling (LSTM), word embeddings (GloVe) and speech recognition — no LLM API dependency.</p>
@@ -134,6 +143,8 @@
       </p>
       <a href="https://github.com/mbilalhussain15/Aiva-Virtual-Assistant-Chatbot-Project"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>☸️ Private Kubernetes Cloud Automation</h3>
       <p>Self-hosted multi-node Kubernetes cluster built from scratch — persistent volumes, MetalLB load balancing, KubeVIP, Ingress controllers & 100% Infrastructure-as-Code automation with Terraform + Helm.</p>
@@ -147,6 +158,7 @@
       </p>
       <a href="https://github.com/mbilalhussain15"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
