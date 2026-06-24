@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **M.Sc. Applied Informatics** – SRH Universität Heidelberg *(Grade: **1.5**)*
+- 🎓 **M.Sc. Applied Computer Science** – SRH Universität Heidelberg *(Grade: **1.5**)*
 - 🚀 **Solo-built & shipped a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
 - 🗂️ **Built & deployed Taskora** — full-stack SaaS PM platform → [mbilalhussain-taskora-pmp.vercel.app](https://mbilalhussain-taskora-pmp.vercel.app)
 - 🤖 Master thesis: **BitBoard** — AI-powered Project Management Platform with Real-Time Collaboration for Code and Whiteboards
