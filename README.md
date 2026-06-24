@@ -158,7 +158,42 @@
       </p>
       <a href="https://github.com/mbilalhussain15"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>🎯 Talentra — AI Talent Acquisition Platform</h3>
+      <p>AI-powered recruitment platform that streamlines hiring workflows — smart candidate matching, resume parsing, interview scheduling, and pipeline tracking. Built for modern HR teams to reduce time-to-hire.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mbilalhussain15/Talentra"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👥 HR Management System</h3>
+      <p>Full-featured enterprise HR platform — employee lifecycle management, payroll processing, attendance tracking, leave management & reporting dashboard. REST API backend with a React frontend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mbilalhussain15/Human-Resource-Management-System"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 BitBoard — Real-Time Code Collaboration</h3>
+      <p>Real-time collaborative code editor with multi-user cursor tracking, live code execution, and synchronized whiteboard — built with WebSockets & Operational Transformation. Think Google Docs for code.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mbilalhussain15/BitBoard-Real-Time-Code-Collaboration"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
   </tr>
 </table>
 
@@ -168,7 +203,6 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [👥 HR Management System](https://github.com/mbilalhussain15/Human-Resource-Management-System) | Full HR system with employee management, payroll, attendance tracking & leave management | Java · Spring Boot · React.js · SQL |
 | [🛒 Online Store App](https://github.com/mbilalhussain15/Online-Store-App) | E-commerce platform with product listings, cart & order management | JavaScript · React · Node.js |
 | [📅 Local Event Networking](https://github.com/mbilalhussain15/Local-Event-Networking-App) | Community platform for discovering and joining local events | JavaScript · React |
 | [📱 Blazor Hybrid Mobile App](https://github.com/mbilalhussain15/Basic-Blazor-Hybrid-Mobile-App) | Cross-platform hybrid mobile app with user authentication & navigation | .NET · Blazor · C# |
