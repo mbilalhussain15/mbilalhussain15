@@ -16,6 +16,7 @@
 - 🎓 **M.Sc. Applied Computer Science** – SRH Universität Heidelberg *(Grade: **1.5**)*
 - 🚀 **Solo-built & shipped a live SaaS** for German SMEs → [attendio.technoflick.com](https://attendio.technoflick.com)
 - 🗂️ **Built & deployed Taskora** — full-stack SaaS PM platform → [mbilalhussain-taskora-pmp.vercel.app](https://mbilalhussain-taskora-pmp.vercel.app)
+- 🎯 **Built Talentra** — real-time remote interview platform with video, code editor & live chat → [mbilalhussain-talentra-ip.vercel.app](https://mbilalhussain-talentra-ip.vercel.app)
 - 🤖 Master thesis: **BitBoard** — AI-powered Project Management Platform with Real-Time Collaboration for Code and Whiteboards
 - 📍 Heidelberg, Germany · Open to **Full-Stack / AI Engineer** roles
 
@@ -116,12 +117,27 @@
         <img src="https://img.shields.io/badge/dnd--kit-FF4154?style=flat-square&logo=react&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </p>
-      <a href="https://mbilalhussain-taskora-pmp.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-mbilalhussain--taskora--pmp.vercel.app-6C47FF?style=for-the-badge"/></a>
+      <a href="https://mbilalhussain-taskora-pmp.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-Taskora_PM_Platform-6C47FF?style=for-the-badge"/></a>
       &nbsp;
       <a href="https://github.com/mbilalhussain15/Taskora-Project-Management-Platform"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
   <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 Talentra — Remote Interview Platform</h3>
+      <p>Full-stack platform for conducting real-time technical interviews — VSCode-powered collaborative code editor, 1-on-1 video rooms with screen sharing & recording, live chat, auto feedback based on test cases, and solo practice problems page.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stream-005FFF?style=flat-square&logo=stream&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Inngest-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://mbilalhussain-talentra-ip.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Demo-Talentra_Interview_Platform-6366f1?style=for-the-badge"/></a>
+      &nbsp;
+      <a href="https://github.com/mbilalhussain15/Talentra-Remote-Interview-Platform"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
+    </td>
     <td width="50%" valign="top">
       <h3>🤖 BitBoard — AI Project Management Platform</h3>
       <p>Master thesis (Grade 1.5). Autonomous LLM agents with LangChain + LangGraph — tool calling, RAG-based knowledge search, and multi-step task planning. Features a real-time collaborative code editor + whiteboard. Full microservices backend.</p>
@@ -137,6 +153,8 @@
       </p>
       <a href="https://github.com/mbilalhussain15/BitBoard-Real-Time-Code-Collaboration"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🧠 Aiva — AI Virtual Assistant Chatbot</h3>
       <p>Text & voice chatbot using hybrid ML models. Full NLP pipeline with intent classification (SVM), sequence modelling (LSTM), word embeddings (GloVe) and speech recognition — no LLM API dependency.</p>
@@ -150,8 +168,6 @@
       </p>
       <a href="https://github.com/mbilalhussain15/Aiva-Virtual-Assistant-Chatbot-Project"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>☸️ Private Kubernetes Cloud Automation</h3>
       <p>Self-hosted multi-node Kubernetes cluster built from scratch — persistent volumes, MetalLB load balancing, KubeVIP, Ingress controllers & 100% Infrastructure-as-Code automation with Terraform + Helm.</p>
@@ -164,17 +180,6 @@
         <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/>
       </p>
       <a href="https://github.com/mbilalhussain15"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Talentra — AI Talent Acquisition Platform</h3>
-      <p>AI-powered recruitment platform that streamlines hiring workflows — smart candidate matching, resume parsing, interview scheduling, and pipeline tracking. Built for modern HR teams to reduce time-to-hire.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </p>
-      <a href="https://github.com/mbilalhussain15/Talentra"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github"/></a>
     </td>
   </tr>
   <tr>
